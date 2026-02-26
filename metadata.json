@@ -1,0 +1,7 @@
+{
+  "name": "Nexus AI",
+  "description": "High-intelligence, offline-first architected AI assistant prototype featuring reflection-based reasoning and voice mode interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
